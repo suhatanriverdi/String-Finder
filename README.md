@@ -12,7 +12,7 @@ Please make sure that "text.txt" and main.cpp files are in the same directory.
 String Finder is licensed under the MIT license. See LICENSE for more information.
 
 ## Disclaimer
-This project was prepared and shared for education purphoses only. You can change the "text.txt" file with your own files. You can also use or edit any file in this repo as you wish :)
+This project was prepared and shared for educational purposes only. You can change the "text.txt" file with your own files. You can also use or edit any file in this repo as you wish :)
 
 ## About
 Süha TANRIVERDİ Çankaya University, Computer Engineering
